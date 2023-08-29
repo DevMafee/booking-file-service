@@ -1,0 +1,16 @@
+export enum ModuleEnum {
+  role = 'role',
+  role_permission = 'role_permission',
+  user = 'user',
+  transaction_method_number = 'transaction_method_number',
+  minimum_balance_rule = 'minimum_balance_rule',
+  game_type = 'game_type',
+  default_question = 'default_question',
+  game = 'game',
+  game_betting_question = 'game_betting_question',
+  game_betting_question_option = 'game_betting_question_option',
+  customer = 'customer',
+  club = 'club',
+  deposit = 'deposit',
+  withdraw = 'withdraw',
+}

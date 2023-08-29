@@ -1,0 +1,3 @@
+INSERT INTO `admin_users` (`id`, `status`, `created_at`, `updated_at`, `deleted_at`, `created_by`, `updated_by`, `deleted_by`, `name`, `user_name`, `password`) VALUES
+('324028ec-c0be-4297-ae92-9cbbdd1e59d5', 1, '2022-01-11 11:24:24.291800', '2022-01-11 11:24:24.291800', NULL, NULL, NULL, NULL, 'Super Admin', 'admin', '$2b$12$vx/RR2XJQ5/Nlw92dZtqIOiSPXIlKoKvIvpiiiB5gOPaFdL6A1RJW');
+
